@@ -6,5 +6,11 @@ Predict socccer matches with Machine Learning.
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+<a href="https://hub-binder.mybinder.ovh/user/isaiahbjork-soccer_ai-on8dcy7j/lab">
+  <img src="https://mybinder.org/badge_logo.svg" alt="Launch Binder"/>
+</a>
+
+
+
 ## Usage
 Run all cells and then input home team and then away team into the shell. 
