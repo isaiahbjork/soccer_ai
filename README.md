@@ -14,3 +14,11 @@ Predict socccer matches with Machine Learning.
 
 ## Usage
 Run all cells and then input home team and then away team into the shell. 
+
+## Notebooks
+All data comes from https://www.football-data.co.uk/
+* English Premier League
+* Spain La Liga
+* Germany Bundesliga
+* France Ligue 1
+* Italy Serie A
