@@ -13,7 +13,7 @@ Predict socccer matches with Machine Learning.
 
 
 ## Usage
-Run all cells and then input home team and then away team into the shell. 
+Run all cells, input home team, and then away team into the shell. 
 
 ## Notebooks
 All data comes from https://www.football-data.co.uk/
